@@ -186,10 +186,10 @@ RESTful API：规范的接口设计，前后端分离
 本项目采用 MIT 许可证 - 查看 LICENSE 文件了解详情。
 
 👨‍💻 作者
-你的名字
+itwjf
 
-Gitee: @你的用户名
+Gitee: @ItWjf
 
-邮箱: 你的邮箱@example.com
+邮箱: 2933277628@qq.com
 
 如果这个项目对你有帮助，请给个⭐Star支持一下！
